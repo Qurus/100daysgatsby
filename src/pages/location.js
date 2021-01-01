@@ -2,12 +2,12 @@ import * as React from "react"
 
 
 // markup
-const IndexPage = () => {
+const LocationPage = () => {
     return (
         <div>
-            <h1>Index Page</h1>
+            <h1>Location Page</h1>
         </div>
     )
 }
 
-export default IndexPage
+export default LocationPage
